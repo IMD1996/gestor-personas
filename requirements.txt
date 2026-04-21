@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+requests
+passlib[bcrypt]
+python-multipart
+psycopg2-binary
